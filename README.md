@@ -1,7 +1,7 @@
 # Apresentação GIT
 ![Alt text](img/tweet-08-2014.png "Todo começo é triste")
 
-## Walktrought
+## Walkthrough
 * O que é?
 * Rede social
 * Hello world
@@ -13,11 +13,13 @@
 ## "This thing called GIT"
 
 * Segundo [**Linus Torvalds**](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=en)
-[TOP frases do Linus em discussões](http://www.attendly.com/linux-founder-linus-torvalds-delivers-a-smackdown-like-no-other/)
+
+* [TOP frases do Linus em discussões](http://www.attendly.com/linux-founder-linus-torvalds-delivers-a-smackdown-like-no-other/)
 
 ![Alt text](img/linus.png "Seu time")
 
 > *".. Take Concurrent Versions System (CVS) as an example of what not to do; if in doubt, make the exact opposite decision ... "*
+
 
 > *".. GIT is my second big project, which was only created for me to mantain my first big project... "* 
 
@@ -61,7 +63,7 @@
 * merge
 * rebase
 
-![Alt text](img/gitflow.gif "Finalmente eu venci")
+
 
 ## Trunk X Feature
 
@@ -69,6 +71,7 @@
 
 [Acompanhe aqui](https://twitter.com/lacerdaph/status/755898667308048384)
 
+![Alt text](img/gitflow.gif "Finalmente eu venci")
 
 ## Outros comandos
 
@@ -76,9 +79,6 @@
 * show
 * diff
 * gitk
-
-### Proxy
-
 
 ![http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect](img/equipe.jpg "Seu time")
 
