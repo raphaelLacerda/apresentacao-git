@@ -5,16 +5,18 @@
 * O que é?
 * Rede social
 * Hello world
-* Pull Request
+* Repositórios locais e remotos
 * Trabalhando com branches
 * Trunk base x Feature Branch
-
+* Pull Request
 
 ## "This thing called GIT"
 
 * Segundo [**Linus Torvalds**](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=en)
 [TOP frases do Linus em discussões](http://www.attendly.com/linux-founder-linus-torvalds-delivers-a-smackdown-like-no-other/)
+
 ![Alt text](img/linus.png "Seu time")
+
 > *".. Take Concurrent Versions System (CVS) as an example of what not to do; if in doubt, make the exact opposite decision ... "*
 
 > *".. GIT is my second big project, which was only created for me to mantain my first big project... "* 
@@ -30,23 +32,55 @@
 ![Alt text](img/bitbucket.png "Seu time")
 
 ## Hello world  
+
 * clone
 * add
 * commit
 * push
+* pull
+* checkout
 
-## Pull Request
+![Alt text](img/comandos.png "Seu time")
+
+## Local x remotos
+
+* origin
+* head
+* branch -a
+* remote -v
+
+![Alt text](img/remote.png "Finalmente eu venci")
+
+### múltiplos Repositórios
+
+![Alt text](img/remotes2.png "Finalmente eu venci")
 
 ## Trabalhando com branches
 
+* git checkout -b nova
+* merge
+* rebase
+
+![Alt text](img/gitflow.gif "Finalmente eu venci")
+
 ## Trunk X Feature
 
+![Alt text](img/discussao-twitter.png "Finalmente eu venci")
+
+[Acompanhe aqui](https://twitter.com/lacerdaph/status/755898667308048384)
 
 
-## Proxy
-* http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect
+## Outros comandos
 
-![Alt text](img/equipe.jpg "Seu time")
+* log
+* show
+* diff
+* gitk
+
+### Proxy
+
+
+![http://stackoverflow.com/questions/24907140/git-returns-http-error-407-from-proxy-after-connect](img/equipe.jpg "Seu time")
 
 
 # FIM
