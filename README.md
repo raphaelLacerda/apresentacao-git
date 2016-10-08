@@ -24,6 +24,8 @@
 
 > *".. GIT is my second big project, which was only created for me to mantain my first big project... "* 
 
+### "This is Hell"
+![Alt text](img/git-hell.png "hell")
 
 ### (pequeno parênteses)
 ![Alt text](img/nerdtech.png "Seu time")
@@ -37,7 +39,8 @@
 ## Hello world  
 
 * clone
-* add
+* add - staged
+	* separando seus commits 
 * commit
 * push
 * pull
@@ -64,17 +67,44 @@
 * merge
 * rebase
 
+### branch fácil - "the merge option"
+* git checkout iss53
+* git merge master
+
+![Alt text](img/branch-facil.png "branch fácil")
+
+### "rebase is better"
+
+* git checkout iss53
+* git rebase master
+![Alt text](img/rebase-facil.png "branch fácil")
+
+> *"The major benefit of rebasing is that you get a much cleaner project history. First, it eliminates the unnecessary merge commits required by git merge."*
+
+#
+
+> *"Now, to the question of whether merging or rebasing is better: hopefully you’ll see that it’s not that simple. Git is a powerful tool, and allows you to do many things to and with your history, but every team and every project is different. Now that you know how both of these things work, it’s up to you to decide which one is best for your particular situation."*
+
+
+### branch hell
+
+![Alt text](img/branch-hell.jpg "branch fácil")
 
 
 ## Trunk X Feature
 
-![Alt text](img/discussao-twitter.png "Finalmente eu venci")
-
-[Acompanhe aqui](https://twitter.com/lacerdaph/status/755898667308048384)
-
+### feature
 ![Alt text](img/gitflow.gif "Como eu trabalho")
 
-### BUT, who is the boss?
+### trunk
+
+![Alt text](img/discussao-twitter.png "Finalmente eu venci")
+
+[Acompanhe aqui](https://twitter.com/lacerdaph/status/755898667308048384) essa discussão!!
+
+
+
+## BUT... "Who is the boss?"
 
 ![Alt text](img/paulo-tweet.png "The boss!")
 
