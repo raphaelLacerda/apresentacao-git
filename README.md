@@ -20,6 +20,7 @@
 
 > *".. Take Concurrent Versions System (CVS) as an example of what not to do; if in doubt, make the exact opposite decision ... "*
 
+#### em outras palavras...
 
 > *".. GIT is my second big project, which was only created for me to mantain my first big project... "* 
 
@@ -71,7 +72,11 @@
 
 [Acompanhe aqui](https://twitter.com/lacerdaph/status/755898667308048384)
 
-![Alt text](img/gitflow.gif "Finalmente eu venci")
+![Alt text](img/gitflow.gif "Como eu trabalho")
+
+### BUT, who is the boss?
+
+![Alt text](img/paulo-tweet.png "The boss!")
 
 ## Outros comandos
 
