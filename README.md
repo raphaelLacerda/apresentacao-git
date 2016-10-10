@@ -16,7 +16,7 @@
 
 * [TOP frases do Linus em discussões](http://www.attendly.com/linux-founder-linus-torvalds-delivers-a-smackdown-like-no-other/)
 
-![Alt text](img/linus.png "Seu time")
+![Alt text](img/linus2.jpg "Seu time")
 
 > *".. Take Concurrent Versions System (CVS) as an example of what not to do; if in doubt, make the exact opposite decision ... "*
 
@@ -39,9 +39,15 @@
 ## Hello world  
 
 * clone
-* add - staged
-	* separando seus commits 
+* add
+    * untracked
+    * staged -> rastreado mas não gravado
+	* separando seus commits
+
+![Alt text](img/stage.png "Área de Stage") 
+
 * commit
+    * -am
 * push
 * pull
 * checkout
@@ -111,6 +117,7 @@
 ## Outros comandos
 
 * log
+    * --stat
 * show
 * diff
 * gitk
