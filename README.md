@@ -16,7 +16,7 @@
 
 * [TOP frases do Linus em discussões](http://www.attendly.com/linux-founder-linus-torvalds-delivers-a-smackdown-like-no-other/)
 
-![Alt text](img/linus2.jpg "Seu time")
+![Alt text](img/linus2.jpg "You've gotta learn it")
 
 > *".. Take Concurrent Versions System (CVS) as an example of what not to do; if in doubt, make the exact opposite decision ... "*
 
@@ -28,7 +28,7 @@
 ![Alt text](img/git-hell.png "hell")
 
 ### (pequeno parênteses)
-![Alt text](img/nerdtech.png "Seu time")
+![Alt text](img/nerdtech.png "NerdTech")
 
 
 ## Rede Social
@@ -75,6 +75,7 @@
 * git checkout -b nova
 * merge
 * rebase
+* Ferramentas - [meld merge](http://meldmerge.org/)
 
 ### branch fácil - "the merge option"
 * git checkout iss53
@@ -86,6 +87,7 @@
 
 * git checkout iss53
 * git rebase master
+
 ![Alt text](img/rebase-facil.png "branch fácil")
 
 > *"The major benefit of rebasing is that you get a much cleaner project history. First, it eliminates the unnecessary merge commits required by git merge."*
@@ -102,10 +104,10 @@
 
 ## Trunk X Feature
 
-### feature
+### 
 ![Alt text](img/gitflow.gif "Como eu trabalho")
 
-### trunk
+### Trunk com **Feature toogle**
 
 ![Alt text](img/discussao-twitter.png "Finalmente eu venci")
 
@@ -137,3 +139,5 @@
 
 * Comandos [git](https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52#.1oxi5pmms).
 * Meu [gist](https://gist.github.com/raphaelLacerda/687db0162a610f63d13ae899ec680518)
+
+![Alt text](img/git-casa-codigo.png "Finalmente eu venci")
