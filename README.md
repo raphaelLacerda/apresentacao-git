@@ -58,8 +58,11 @@
 
 * origin
 * head
-* branch -a
+* branch 
+    * -a
+    * -v
 * remote -v
+* reset --hard --soft
 
 ![Alt text](img/remote.png "Finalmente eu venci")
 
