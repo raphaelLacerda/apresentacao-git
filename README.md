@@ -1,4 +1,8 @@
 # Apresentação GIT
+
+> *"...distributed is the new centralized..."*
+ 
+
 ![Alt text](img/tweet-08-2014.png "Todo começo é triste")
 
 ## Walkthrough
