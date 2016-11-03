@@ -56,6 +56,10 @@
 * pull
 * checkout
 
+### Trocando mensagens de commit
+* ammend
+* rebase iterative 
+
 ![Alt text](img/comandos.png "Seu time")
 
 ## Local x remotos
